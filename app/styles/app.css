@@ -78,6 +78,7 @@
     margin: 40px 0; }
   .content img {
     max-width: 100%; }
+    border: 1px dashed #BBB;
   .content .desc {
     text-align: right;
     font-style: italic;
