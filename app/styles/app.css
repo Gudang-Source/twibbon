@@ -207,3 +207,17 @@ color: black;
   white-space: nowrap;
   padding: 0 12px;
 }
+
+.button {
+  outline:0;
+  color: black;
+  background-color: #fff;
+  font-family: serif;
+  font-weight: normal;
+  text-align: center;
+  vertical-align: middle;
+   padding: 10px 20px;
+   border: 1px dashed #BBB; 
+   text-align: center;
+   cursor:pointer;
+}
