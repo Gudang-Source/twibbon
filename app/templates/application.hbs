@@ -1,5 +1,4 @@
 {{!-- The following component displays Ember's default welcome message. --}}
-    <article>
     <h1>FRAME STUDIO</h1>
     <p>Upload the image you want to make into a twibbon then click 'Generate!'.</p>
     <p>Right click and save for PC or touch and hold then download image for smartphone if the download link is dead.</p>
@@ -13,11 +12,10 @@
     <canvas id="twibbonbaker" style="width: 300px; height: 300px; display: none"></canvas>
     </p>
     <p>
-    <button id="dpwload" onclick="drawImage()">Generate</button>
-    <a href="#" id="dpwload2" download="twibbon-by-bungferry.png" style="display: none;">Download</a>
+    <button class="js__dark-mode-toggle dark-mode-toggle" id="dpwload" onclick="drawImage()">Generate</button>
+    <a href="#" class="js__dark-mode-toggle dark-mode-toggle" id="dpwload2" download="twibbon-by-bungferry.png" style="display: none;">Download</a>
     </p>
     <p>Made with &hearts; by <a href="https://www.facebook.com/bungferry.wa">Ferry Ayunda</a> in Indonesia</p>
-    </article>
 
 <script type="text/javascript" src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
 <script src="script.js"></script>
