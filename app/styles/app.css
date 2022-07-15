@@ -50,7 +50,7 @@
             transform: translateY(6px); }
     .page header .account {
       float: right;
-      background-image: url('https://avatars.githubusercontent.com/u/79414671?s=48&v=4');
+      background-image: url('user.png');
       width: 35px;
       height: 35px;
       border-radius: 50%; }
