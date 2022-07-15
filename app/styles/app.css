@@ -50,7 +50,7 @@
             transform: translateY(6px); }
     .page header .account {
       float: right;
-      background-image: url('user.png');
+      background-image: url('public/user.png');
       width: 35px;
       height: 35px;
       border-radius: 50%; }
