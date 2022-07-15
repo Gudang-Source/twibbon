@@ -87,11 +87,11 @@
 
 a:link {
   text-decoration: none;
-  font-size: 12px;
 }
 
 a {
   color: #777;
+  font-size: 12px;
 }
 
 .solution {
