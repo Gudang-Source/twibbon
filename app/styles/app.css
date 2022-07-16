@@ -235,7 +235,4 @@ img {
 }
 
 
-.floating-credit { position:fixed; bottom: 5px;right: 5px; color:#aaa; font-size:13px;font-family:arial,sans-serif; }
-.floating-credit a { text-decoration:none; color:#000000; font-weight:bold; }
-.floating-credit a:hover { border-bottom:1px dotted #f8f8f8; }
-.floating-heading { position:fixed; color:#aaa; font-size:20px; font-family:arial,sans-serif; }
+.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
