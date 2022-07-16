@@ -50,7 +50,7 @@
             transform: translateY(6px); }
     .page header .account {
       float: right;
-      background: #aaa;
+      background-image: url('https://frame-studio.vercel.app/idn.png');
       width: 35px;
       height: 35px;
       border-radius: 50%; }
