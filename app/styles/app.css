@@ -235,7 +235,7 @@ img {
 }
 
 .credit {
-    position:absolute;
+    position:sticky;
     bottom:10px;
     right:20px;
     font-family: 'Sacramento', cursive;
