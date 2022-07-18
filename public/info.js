@@ -37,7 +37,7 @@ const piModalContent = `
 		<p>Add a customized look to your Facebook profile in just a few steps. Create frames in Frame Studio for your friends and followers using your own original artwork or choose from our templates.</p>
 
 		<ul>
-			<li><a title="On my website" href="https://bungferry.my.id">On my website</a></li>
+			<li><a title="On my website" href="https://bungferry.my.id">On My Website</a></li>
 			<li><a title="On GitHub" href="https://bungferry.github.io/twibbon/">On GitHub</a></li>
 			<li><a title="On CodePen" href="https://www.facebook.com/bungferry.wa">On Facebook</a></li>
 		</ul>
