@@ -28,24 +28,24 @@ const piModalContent = `
 
 <div class="pi-modal">
 
-	<div class="pi-title-bar"><h2>Image Cards With Content Scroll Up</h2>${piIconClose}</div>
+	<div class="pi-title-bar"><h2>Twibbon Generator</h2>${piIconClose}</div>
 
 	<div class="pi-wrapper">
 
 		<h3>Description</h3>
 
-		<p>A simple app which shows content in a scroll up animation when hovered over on the image cards. It's responsive to different screen sizes.</p>
+		<p>Add a customized look to your Facebook profile in just a few steps. Create frames in Frame Studio for your friends and followers using your own original artwork or choose from our templates.</p>
 
 		<ul>
-			<li><a title="On my website" href="https://bungferry.my.if">On my website</a></li>
-			<li><a title="On GitHub" href="https://bungferry.github.io/layout/">On GitHub</a></li>
+			<li><a title="On my website" href="https://bungferry.my.id">On my website</a></li>
+			<li><a title="On GitHub" href="https://bungferry.github.io/twibbon/">On GitHub</a></li>
 			<li><a title="On CodePen" href="https://www.facebook.com/bungferry.wa">On Facebook</a></li>
 		</ul>
 
 		<h3>External Assets</h3>
 
 		<ul>
-			<li><a title="Unsplash" href="https://unsplash.com/">Unsplash</a> — Images</li>
+			<li><a title="Unsplash" href="#">Bungferry</a> — Images</li>
 		</ul>
 
 		<h3>License</h3>
