@@ -45,7 +45,7 @@ const piModalContent = `
 		<h3>External Assets</h3>
 
 		<ul>
-			<li><a title="Unsplash" href="#">Bungferry</a> — Images</li>
+			<li><a title="Unsplash" href="#">Ferry Ayunda</a> — Images</li>
 		</ul>
 
 		<h3>License</h3>
