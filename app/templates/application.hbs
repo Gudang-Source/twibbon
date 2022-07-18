@@ -10,8 +10,6 @@
 
         
     <p>Upload the image you want to make into a twibbon then click 'Generate!'.</p>
-    <p>Right click and save for PC or touch and hold then download image for smartphone if the download link is dead.</p>
-    <p>Make sure the uploaded image has a size.</p>
 
     <p>
     <span class="btn-file">
@@ -19,15 +17,32 @@
     </span>
     </p>
 
+    <p>Make sure the uploaded image has a size.</p>
+
+    <p><button class="btn btn-primary" id="dpwload" onclick="drawImage()">Generate</button></p>
+
+    <p>Right click and save for PC or touch and hold then download image for smartphone if the download link is dead.</p>
+
+    <p><a href="#" class="btn btn-success" id="dpwload2" download="twibbon-by-bungferry.png" style="display: none;">Download</a></p>
+
+    <!-- <p>Make sure the uploaded image has a size.</p>
+     
+    <p>
+    <span class="btn-file">
+      Upload Photo <input id="fileInput" type="file"/>
+    </span>
+    </p>
+    -->
+
     <p>
     <img class="img-fluid" id="preview" src="no-img.png"/>
     <img id="twibbon" src="twibbon.png" style="display: none"/>
     <canvas id="twibbonbaker" style="width: 300px; height: 300px; display: none"></canvas>
     </p>
-    <p>
+    <!-- <p>
     <button class="btn btn-primary" id="dpwload" onclick="drawImage()">Generate</button>
     <a href="#" class="btn btn-success" id="dpwload2" download="twibbon-by-bungferry.png" style="display: none;">Download</a>
-    </p>
+    </p> -->
 
     <footer class="pt-3 mt-4 text-muted border-top">
       &copy; 2021 <a href="#" class="text-decoration-none">Ferry Ayunda</a>
