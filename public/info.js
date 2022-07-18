@@ -48,9 +48,9 @@ const piModalContent = `
 			<li><a title="Unsplash" href="#">Ferry Ayunda</a> — Images</li>
 		</ul>
 
-		<h3>License</h3>
+		<h3>Support</h3>
 
-		<p><a title="MIT" href="#">MIT</a></p>
+		<p><a title="MIT" href="https://www.buymeacoffee.com/bungferry">Donation</a></p>
 
 	</div>
 </div>
