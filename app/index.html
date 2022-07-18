@@ -8,13 +8,35 @@
     <meta property="og:title" content="Twibbon Generator" />
     <meta content="https://frame-studio.vercel.app/og.png" property="og:image">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="theme-color" content="#7952b3">
+     
     {{content-for "head"}}
 
     <!-- <link integrity="" rel="stylesheet" href="{{rootURL}}assets/vendor.css"> -->
     <link integrity="" rel="stylesheet" href="{{rootURL}}assets/hello-world.css">
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .responsive {
+        width: 100%;
+        height: auto;
+      }
+    </style>
 
     {{content-for "head-footer"}}
   </head>
