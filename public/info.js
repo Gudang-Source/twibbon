@@ -40,7 +40,7 @@ const piModalContent = `
 
 		<ul>
 			<li><a title="On My Website" href="https://bungferry.my.id">On My Website</a></li>
-			<li><a title="On Email" href="mailto:bungferry@my.id">E-Mail</a></li>
+			<li><a title="On Email" href="mailto:bungferry@my.id">On E-Mail</a></li>
 			<li><a title="On Facebook" href="https://www.facebook.com/bungferry.wa">On Facebook</a></li>
 		</ul>
 
