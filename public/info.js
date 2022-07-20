@@ -39,9 +39,9 @@ const piModalContent = `
 		<p>Add a customized look to your Facebook profile in just a few steps. Create frames in Frame Studio for your friends and followers using your own original artwork or choose from our templates.</p>
 
 		<ul>
-			<li><a title="On my website" href="https://bungferry.my.id">On My Website</a></li>
-			<li><a title="On GitHub" href="#">On GitHub</a></li>
-			<li><a title="On CodePen" href="https://www.facebook.com/bungferry.wa">On Facebook</a></li>
+			<li><a title="On My Website" href="https://bungferry.my.id">On My Website</a></li>
+			<li><a title="On Email" href="mailto:bungferry@my.id">E-Mail</a></li>
+			<li><a title="On Facebook" href="https://www.facebook.com/bungferry.wa">On Facebook</a></li>
 		</ul>
 
 		<h3>External Assets</h3>
@@ -52,7 +52,7 @@ const piModalContent = `
 
 		<h3>Support</h3>
 
-		<p><a title="MIT" href="https://www.buymeacoffee.com/bungferry">Donation</a></p>
+		<p><a title="Donation" href="https://www.buymeacoffee.com/bungferry">Donation</a></p>
 
 	</div>
 </div>
