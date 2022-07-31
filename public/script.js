@@ -34,7 +34,4 @@ function drawImage() {
 
 $("#fileInput").change(function() {
   readURL(this);
-
-if (FileInput == undefined) return alert("Mohon pilih gambar terlebih dahulu!");
-
 });
